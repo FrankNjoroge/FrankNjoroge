@@ -1,5 +1,3 @@
-# 💫 About Me:
-
 Hey there! I’m a full-stack engineer based in **Nairobi, Kenya** with a strong love for clean code, great UI, and solving real-world problems with tech.<br>
 
 💡 I’m especially into **JavaScript**, **TypeScript**, and all things **React** — and I’m always up for collaborating on fun or challenging projects in the JS/TS ecosystem.<br>
