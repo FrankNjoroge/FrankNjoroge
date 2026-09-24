@@ -2,7 +2,7 @@ Hey there! I’m a full-stack engineer based in **Nairobi, Kenya** with a strong
 
 I’m especially into **JavaScript**, **TypeScript**, and all things **React** — and I’m always up for collaborating on fun or challenging projects in the JS/TS ecosystem.<br>
 
-♟️ **Fun fact:** I’m a chess enthusiast — I love the parallels between coding and strategy, especially when it comes to planning ahead and thinking in patterns.<br>
+**Fun fact:** I’m a chess enthusiast — I love the parallels between coding and strategy, especially when it comes to planning ahead and thinking in patterns.<br>
 
 ###  Let’s connect if you're into:<br>
 - Building thoughtful UIs or tools with **React**, **Next.js**, or **Node.js**<br>
